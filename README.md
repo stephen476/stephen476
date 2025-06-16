@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi, I'm Oluwatosin, a Senior Data Analyst and IT Project Manager.
 
-<!--
-**stephen476/stephen476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋‍♀️ About Me
+• 📊 I am currently open to Senior data analyst position.
 
-Here are some ideas to get you started:
+• 📐 Degree in Statistics, National Diploma in Mathematics and Statistics, Google Data Analytics Certification, IBM Cloud Computing Certification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 👗 Fashion Enthusiast.
+
+🛠 Skills and Tools
+• Tools: Tableau; SQL(JOINS, CTEs, Subqueries, temp Tables, UNIONs), BigQuery, DBT; R(ggplot2, tidyverse); Excel(Pivot tables, Vlookup, Charts); Python(Pandas, Numpy, Matplotlib); PowerBI; Git.
+
+• Skills: Critical Thinking, Problem-Solving, Communication, Technical Writing, Leadership, Team Collaboration, Time Management.
+
+📚 Projects
+• View my portfolio projects on my website.
+
+• View my coding projects on GitHub..
+
+⭐ Favorite Projects
+• Body Type Predictor
+
+• TIKTOK - This project highlights the power of data in driving social media growth as i grew my tiktok channel by over 6000 followers in two(2) months.
+
+📫 Connect with Me
+• Website
+
+• LinkedIn
+
+• Email
