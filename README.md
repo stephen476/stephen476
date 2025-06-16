@@ -18,9 +18,9 @@
 
 # 📚 Projects
 
-• View my portfolio projects on my website.
+• View my portfolio projects on my [Website](https://stephenkelly.my.canva.site/).
 
-• View my coding projects on GitHub..
+• View my coding projects on [GitHub](https://github.com/stephen476?tab=repositories).
 
 
 # ⭐ Favorite Projects
