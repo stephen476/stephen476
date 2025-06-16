@@ -1,7 +1,7 @@
 👋 Hi, I'm Stephen, a Data Analyst Inspired by Tough Problems.
 
 
-# 🙋‍♀️ About Me
+# 🙋‍♂️ About Me
 
 • 📊 I am currently open to a data analyst position.
 
