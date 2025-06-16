@@ -34,6 +34,18 @@
 • TIKTOK - This project highlights the power of data in driving social media growth as i grew my tiktok channel by over 6000 followers in two(2) months.
 
 # 📫 Connect with Me
+
+
+
+
+
+
+
+
+
+
+
+
 • Website
 
 • LinkedIn
