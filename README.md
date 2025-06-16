@@ -5,9 +5,9 @@
 
 • 📊 I am currently open to a data analyst position.
 
-• 📐 Background in Statistics, National Diploma in Mathematics and Statistics, Google Data Analytics Certification, IBM Cloud Computing Certification.
+• 📐 Background in Statistics, Data Analytics Training, Previously Team Lead In a family Owned Restaurants.
 
-  • 👗 Data Enthusiast.
+• 👖 Fashion Enthusiast.
 
 # 🛠 Skills and Tools
 
