@@ -10,22 +10,30 @@
 
 • 👗 Fashion Enthusiast.
 
-🛠 Skills and Tools
+# 🛠 Skills and Tools
+
+
 • Tools: Tableau; SQL(JOINS, CTEs, Subqueries, temp Tables, UNIONs), BigQuery, DBT; R(ggplot2, tidyverse); Excel(Pivot tables, Vlookup, Charts); Python(Pandas, Numpy, Matplotlib); PowerBI; Git.
 
 • Skills: Critical Thinking, Problem-Solving, Communication, Technical Writing, Leadership, Team Collaboration, Time Management.
 
-📚 Projects
+
+# 📚 Projects
+
+
 • View my portfolio projects on my website.
 
 • View my coding projects on GitHub..
 
-⭐ Favorite Projects
+
+# ⭐ Favorite Projects
+
+
 • Body Type Predictor
 
 • TIKTOK - This project highlights the power of data in driving social media growth as i grew my tiktok channel by over 6000 followers in two(2) months.
 
-📫 Connect with Me
+# 📫 Connect with Me
 • Website
 
 • LinkedIn
