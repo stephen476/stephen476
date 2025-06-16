@@ -25,9 +25,9 @@
 
 # ⭐ Favorite Projects
 
-• Body Type Predictor
+• Olist Sales Analysis - showcased my story telling abilities with data
 
-• TIKTOK - This project highlights the power of data in driving social media growth as i grew my tiktok channel by over 6000 followers in two(2) months.
+• Sales Analytics Dashboard - built a dashboard using the full data process
 
 # 📫 Connect with Me
 
