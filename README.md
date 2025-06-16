@@ -1,6 +1,9 @@
-👋 Hi, I'm Oluwatosin, a Senior Data Analyst and IT Project Manager.
+👋 Hi, I'm Stephen, a Senior Data Analyst and IT Project Manager.
 
-🙋‍♀️ About Me
+
+# 🙋‍♀️ About Me
+
+
 • 📊 I am currently open to Senior data analyst position.
 
 • 📐 Degree in Statistics, National Diploma in Mathematics and Statistics, Google Data Analytics Certification, IBM Cloud Computing Certification.
