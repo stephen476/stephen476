@@ -25,9 +25,9 @@
 
 # ⭐ Favorite Projects
 
-• Olist Sales Analysis - showcased my story telling abilities with data
+• [Olist Sales Analysis](https://stephenkelly.my.canva.site/dagh5gmt5kw) - showcased my story telling abilities with data
 
-• Sales Analytics Dashboard - built a dashboard using the full data analysis cycle
+• [Sales Analytics Dashboard](https://stephenkelly.my.canva.site/your-paragraph-text) - built a dashboard using the full data analysis cycle
 
 # 📫 Connect with Me
 
