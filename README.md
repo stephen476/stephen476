@@ -5,7 +5,7 @@
 
 • 📊 I am currently open to a data analyst position.
 
-• 📐 Background in Statistics, Data Analytics Training, Previously Team Lead In a family Owned Restaurants.
+• 📐 Background in Statistics, Data Analytics Training, Currently Team Lead In a family Owned Restaurants.
 
 • 👖 Fashion Enthusiast.
 
@@ -27,7 +27,7 @@
 
 • Olist Sales Analysis - showcased my story telling abilities with data
 
-• Sales Analytics Dashboard - built a dashboard using the full data process
+• Sales Analytics Dashboard - built a dashboard using the full data analysis cycle
 
 # 📫 Connect with Me
 
