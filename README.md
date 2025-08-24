@@ -1,4 +1,4 @@
-👋 Hi, I'm Stephen, a Data Analyst Inspired by Tough Problems.
+👋 Hi, I'm Stephen, a Data Enthusiast Inspired by Tough Problems.
 
 
 # 🙋‍♂️ About Me
